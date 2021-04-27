@@ -54,7 +54,7 @@ export class AppClima  implements OnInit
     {
 
 
-              this.Kelvin = 356;
+              this.Kelvin = 298.16;
               this.error=false;
 
              this.KelvinTo();
